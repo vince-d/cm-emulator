@@ -110,9 +110,6 @@ class BTHelper:
                     # Debugging: Print out data.
                     # print "Received [%s]" % data
 
-                    # Map received bytes to integers between 0 and 255.
-                    numbers = map(ord, data)
-
                     # Increase frame counter.
                     frames_received += 1
 
@@ -120,7 +117,9 @@ class BTHelper:
                     count = 0
                     for x in range(0, 24):
                         for y in range(0, 24):
-                            self.matrix[24 * (23 - y) + x] = numbers[576 - 1 - count] / 255.0
+                            # Directly indexing the data byte array is possible because in Python 3,
+                            # indexing byte arrays returns an integer.
+                            self.matrix[24 * (23 - y) + x] = data[576 - 1 - count] / 255.0
                             count += 1
 
             # Close connection.
