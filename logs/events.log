@@ -1,0 +1,261 @@
+05/01/2015 02:30:02 - Starting the server.
+
+05/01/2015 21:35:55 - Starting the server.
+
+05/01/2015 21:39:35 - Starting the server.
+
+11/01/2015 17:00:35 - Starting the server.
+
+11/01/2015 17:04:00 - Starting the server.
+
+11/01/2015 17:06:20 - Starting the server.
+
+11/01/2015 17:10:13 - Starting the server.
+
+11/01/2015 17:15:16 - Starting the server.
+
+11/01/2015 17:17:30 - Starting the server.
+
+11/01/2015 17:18:14 - Starting the server.
+
+11/01/2015 17:26:55 - Starting the server.
+
+11/01/2015 17:30:07 - Starting the server.
+
+11/01/2015 17:34:24 - Starting the server.
+
+11/01/2015 17:44:06 - Starting the server.
+
+11/01/2015 17:47:53 - Starting the server.
+
+11/01/2015 17:50:43 - Starting the server.
+
+11/01/2015 17:54:51 - Starting the server.
+
+11/01/2015 18:05:50 - Starting the server.
+
+11/01/2015 18:08:13 - Starting the server.
+
+11/01/2015 18:13:13 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+11/01/2015 18:13:13 - Received handshake. Version: "1", Name: "TestApp", X-Size: "24", Y-Size: "24", ColorMode: "0".
+11/01/2015 18:13:13 - Sent response. Code: 0, Max. FPS: 30.
+11/01/2015 18:13:17 - Connection to ('00:EE:BD:CE:55:CF', 16) closed. Connection lasted 5 seconds. Received 128 frames.
+
+11/01/2015 18:25:35 - Starting the server.
+
+11/01/2015 18:41:23 - Starting the server.
+
+11/01/2015 18:50:50 - Starting the server.
+
+11/01/2015 18:51:17 - Starting the server.
+
+11/01/2015 18:51:36 - Starting the server.
+
+11/01/2015 18:52:16 - Starting the server.
+
+11/01/2015 18:52:35 - Starting the server.
+
+11/01/2015 18:52:58 - Starting the server.
+
+11/01/2015 18:55:41 - Starting the server.
+
+11/01/2015 18:58:09 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+11/01/2015 18:58:10 - Received handshake. Version: "1", Name: "TestApp", X-Size: "24", Y-Size: "24", ColorMode: "0".
+11/01/2015 18:58:10 - Sent response. Code: 0, Max. FPS: 30.
+11/01/2015 18:58:39 - Connection to ('00:EE:BD:CE:55:CF', 16) closed. Connection lasted 30 seconds. Received 969 frames.
+
+11/01/2015 18:59:14 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+11/01/2015 18:59:14 - Received handshake. Version: "1", Name: "cmapp", X-Size: "24", Y-Size: "24", ColorMode: "0".
+11/01/2015 18:59:14 - Sent response. Code: 0, Max. FPS: 30.
+11/01/2015 18:59:29 - Connection to ('00:EE:BD:CE:55:CF', 16) closed. Connection lasted 16 seconds. Received 50 frames.
+
+11/01/2015 22:11:14 - Starting the server.
+
+12/01/2015 15:19:57 - Starting the server.
+
+13/01/2015 22:46:58 - Starting the server.
+
+14/01/2015 21:43:20 - Starting the server.
+
+14/01/2015 21:46:26 - Starting the server.
+
+14/01/2015 21:46:53 - Starting the server.
+
+14/01/2015 21:47:08 - Starting the server.
+
+14/01/2015 21:48:00 - Starting the server.
+
+14/01/2015 21:48:55 - Starting the server.
+
+14/01/2015 21:50:08 - Starting the server.
+
+14/01/2015 21:51:42 - Starting the server.
+
+14/01/2015 21:52:42 - Starting the server.
+
+14/01/2015 21:52:58 - Starting the server.
+
+14/01/2015 21:54:16 - Starting the server.
+
+14/01/2015 21:54:42 - Starting the server.
+
+14/01/2015 21:55:09 - Starting the server.
+
+14/01/2015 21:56:22 - Starting the server.
+
+14/01/2015 22:03:25 - Starting the server.
+
+14/01/2015 22:04:03 - Starting the server.
+
+14/01/2015 22:06:37 - Starting the server.
+
+14/01/2015 22:06:56 - Starting the server.
+
+14/01/2015 22:07:21 - Starting the server.
+
+14/01/2015 22:07:42 - Starting the server.
+
+14/01/2015 22:08:00 - Starting the server.
+
+14/01/2015 22:08:35 - Starting the server.
+
+14/01/2015 22:09:17 - Starting the server.
+
+14/01/2015 22:10:27 - Starting the server.
+
+14/01/2015 22:10:50 - Starting the server.
+
+14/01/2015 22:11:57 - Starting the server.
+
+14/01/2015 22:12:31 - Starting the server.
+
+14/01/2015 22:14:45 - Starting the server.
+
+14/01/2015 22:15:15 - Starting the server.
+
+14/01/2015 22:16:46 - Starting the server.
+
+14/01/2015 22:17:36 - Starting the server.
+
+14/01/2015 22:17:51 - Starting the server.
+
+14/01/2015 22:18:30 - Starting the server.
+
+14/01/2015 22:18:53 - Starting the server.
+
+14/01/2015 22:19:11 - Starting the server.
+
+14/01/2015 22:21:04 - Starting the server.
+
+14/01/2015 22:21:37 - Starting the server.
+
+14/01/2015 22:27:06 - Starting the server.
+
+14/01/2015 22:27:55 - Starting the server.
+
+14/01/2015 22:32:39 - Starting the server.
+
+14/01/2015 22:36:04 - Starting the server.
+
+14/01/2015 22:36:51 - Starting the server.
+
+14/01/2015 22:37:35 - Starting the server.
+
+14/01/2015 22:38:27 - Starting the server.
+
+14/01/2015 22:38:59 - Starting the server.
+
+14/01/2015 22:39:35 - Starting the server.
+
+14/01/2015 22:42:32 - Starting the server.
+
+14/01/2015 22:43:37 - Starting the server.
+
+14/01/2015 22:44:18 - Starting the server.
+
+14/01/2015 22:45:32 - Starting the server.
+
+14/01/2015 22:45:55 - Starting the server.
+
+14/01/2015 22:46:42 - Starting the server.
+
+14/01/2015 22:48:27 - Starting the server.
+
+14/01/2015 22:48:45 - Starting the server.
+
+14/01/2015 22:49:02 - Starting the server.
+
+14/01/2015 22:49:28 - Starting the server.
+
+14/01/2015 22:50:20 - Starting the server.
+
+14/01/2015 22:50:51 - Starting the server.
+
+14/01/2015 22:51:39 - Starting the server.
+
+14/01/2015 22:53:06 - Starting the server.
+
+14/01/2015 22:53:22 - Starting the server.
+
+14/01/2015 22:58:53 - Starting the server.
+
+14/01/2015 23:00:06 - Starting the server.
+
+14/01/2015 23:01:27 - Starting the server.
+
+14/01/2015 23:01:50 - Starting the server.
+
+14/01/2015 23:02:30 - Starting the server.
+
+14/01/2015 23:03:11 - Starting the server.
+
+14/01/2015 23:04:07 - Starting the server.
+
+14/01/2015 23:04:39 - Starting the server.
+
+14/01/2015 23:05:44 - Starting the server.
+
+14/01/2015 23:07:02 - Starting the server.
+
+14/01/2015 23:07:58 - Starting the server.
+
+14/01/2015 23:08:27 - Starting the server.
+
+14/01/2015 23:09:06 - Starting the server.
+
+14/01/2015 23:10:09 - Starting the server.
+
+14/01/2015 23:10:43 - Starting the server.
+
+14/01/2015 23:11:07 - Starting the server.
+
+14/01/2015 23:11:49 - Starting the server.
+
+14/01/2015 23:12:29 - Starting the server.
+
+14/01/2015 23:13:14 - Starting the server.
+
+14/01/2015 23:13:47 - Starting the server.
+
+14/01/2015 23:14:10 - Starting the server.
+
+14/01/2015 23:14:51 - Starting the server.
+
+14/01/2015 23:15:58 - Starting the server.
+
+14/01/2015 23:19:41 - Starting the server.
+
+14/01/2015 23:22:48 - Starting the server.
+
+14/01/2015 23:23:27 - Starting the server.
+
+14/01/2015 23:24:15 - Starting the server.
+
+14/01/2015 23:24:30 - Starting the server.
+
+14/01/2015 23:25:04 - Starting the server.
+
+14/01/2015 23:25:58 - Starting the server.
+
+20/01/2015 00:16:35 - Starting the server.
+
