@@ -259,3 +259,21 @@
 
 20/01/2015 00:16:35 - Starting the server.
 
+20/01/2015 13:26:36 - Starting the server.
+
+20/01/2015 13:28:04 - Starting the server.
+
+20/01/2015 13:28:45 - Starting the server.
+
+20/01/2015 13:29:06 - Starting the server.
+
+20/01/2015 13:31:40 - Starting the server.
+
+20/01/2015 13:32:11 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+20/01/2015 13:32:11 - Received handshake. Version: "1", Name: "b'cmapp'", X-Size: "24", Y-Size: "24", ColorMode: "0".
+20/01/2015 13:32:11 - Sent response. Code: 0, Max. FPS: 30.
+20/01/2015 13:34:18 - Starting the server.
+
+20/01/2015 13:35:12 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+20/01/2015 13:35:12 - Received handshake. Version: "1", Name: "b'cmapp'", X-Size: "24", Y-Size: "24", ColorMode: "0".
+20/01/2015 13:35:12 - Sent response. Code: 0, Max. FPS: 30.

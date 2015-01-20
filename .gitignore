@@ -1,2 +1,3 @@
 *.pyc
 logs/events.log
+*.log
