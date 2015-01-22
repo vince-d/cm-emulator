@@ -55,8 +55,10 @@ USE_POST_PROCESSING = False
 #-------------------------------------------------#
 
 # Create window.
+config = pyglet.gl.Config(sample_buffers=1, samples=4)
 window = pyglet.window.Window(OPENGL_SIZE_X, OPENGL_SIZE_Y, resizable=True,
-                              visible=True, caption="Connection Machine Emulator")
+                              visible=True, caption="Connection Machine Emulator", config=config)
+
 
 # Set window position.
 window.set_location(WIN_LOC_X, WIN_LOC_Y)
