@@ -277,3 +277,64 @@
 20/01/2015 13:35:12 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
 20/01/2015 13:35:12 - Received handshake. Version: "1", Name: "b'cmapp'", X-Size: "24", Y-Size: "24", ColorMode: "0".
 20/01/2015 13:35:12 - Sent response. Code: 0, Max. FPS: 30.
+20/01/2015 18:56:25 - Starting the server.
+
+20/01/2015 18:56:39 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+20/01/2015 18:56:39 - Received handshake. Version: "1", Name: "b'cmapp'", X-Size: "24", Y-Size: "24", ColorMode: "0".
+20/01/2015 18:56:39 - Sent response. Code: 0, Max. FPS: 30.
+20/01/2015 18:58:54 - Starting the server.
+
+20/01/2015 18:58:57 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+20/01/2015 18:58:57 - Received handshake. Version: "1", Name: "b'cmapp'", X-Size: "24", Y-Size: "24", ColorMode: "0".
+20/01/2015 18:58:57 - Sent response. Code: 0, Max. FPS: 30.
+20/01/2015 19:00:13 - Starting the server.
+
+20/01/2015 19:00:16 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+20/01/2015 19:00:16 - Received handshake. Version: "1", Name: "b'cmapp'", X-Size: "24", Y-Size: "24", ColorMode: "0".
+20/01/2015 19:00:16 - Sent response. Code: 0, Max. FPS: 30.
+20/01/2015 19:00:25 - Connection to ('00:EE:BD:CE:55:CF', 16) closed. Connection lasted 10 seconds. Received 20 frames.
+
+20/01/2015 19:00:43 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+20/01/2015 19:00:43 - Received handshake. Version: "1", Name: "b'cmapp'", X-Size: "24", Y-Size: "24", ColorMode: "0".
+20/01/2015 19:00:43 - Sent response. Code: 0, Max. FPS: 30.
+20/01/2015 19:00:51 - Connection to ('00:EE:BD:CE:55:CF', 16) closed. Connection lasted 9 seconds. Received 8 frames.
+
+20/01/2015 19:01:41 - Starting the server.
+
+20/01/2015 19:01:53 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+20/01/2015 19:01:53 - Received handshake. Version: "1", Name: "b'cmapp'", X-Size: "24", Y-Size: "24", ColorMode: "0".
+20/01/2015 19:01:53 - Sent response. Code: 0, Max. FPS: 30.
+20/01/2015 19:02:18 - Starting the server.
+
+20/01/2015 19:03:06 - Starting the server.
+
+20/01/2015 19:03:33 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+20/01/2015 19:03:33 - Received handshake. Version: "1", Name: "b'cmapp'", X-Size: "24", Y-Size: "24", ColorMode: "0".
+20/01/2015 19:03:33 - Sent response. Code: 0, Max. FPS: 30.
+20/01/2015 19:03:41 - Connection to ('00:EE:BD:CE:55:CF', 16) closed. Connection lasted 8 seconds. Received 16 frames.
+
+20/01/2015 20:44:45 - Starting the server.
+
+20/01/2015 20:45:23 - Accepted connection from device ('00:EE:BD:CE:55:CF', 16).
+20/01/2015 20:45:24 - Received handshake. Version: "1", Name: "b'cmapp'", X-Size: "24", Y-Size: "24", ColorMode: "0".
+20/01/2015 20:45:24 - Sent response. Code: 0, Max. FPS: 30.
+20/01/2015 20:46:29 - Connection to ('00:EE:BD:CE:55:CF', 16) closed. Connection lasted 66 seconds. Received 104 frames.
+
+20/01/2015 20:46:46 - Starting the server.
+
+21/01/2015 19:36:40 - Starting the server.
+
+22/01/2015 01:16:26 - Starting the server.
+
+22/01/2015 13:39:01 - Starting the server.
+
+22/01/2015 13:40:12 - Starting the server.
+
+22/01/2015 13:41:00 - Starting the server.
+
+22/01/2015 13:49:14 - Starting the server.
+
+22/01/2015 13:56:23 - Starting the server.
+
+28/01/2015 23:25:35 - Starting the server.
+
