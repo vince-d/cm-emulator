@@ -35,7 +35,7 @@ WIN_LOC_Y = 50
 OPENGL_FPS = 60
 
 # FPS for the LED matrix.
-# The actual hardware in the real Connection Machine supports about 10 FPS,
+# The actual hardware in the real Connection Machine supports about 10 FPS, 
 # so make sure your app still looks good with that.
 BLUETOOTH_FPS = 30
 
@@ -54,10 +54,11 @@ USE_POST_PROCESSING = False
 # Window and helper setup                         #
 #-------------------------------------------------#
 
-# Create window.
-config = pyglet.gl.Config(sample_buffers=1, samples=4)
-window = pyglet.window.Window(OPENGL_SIZE_X, OPENGL_SIZE_Y, resizable=True,
-                              visible=True, caption="Connection Machine Emulator", config=config)
+# Create window. Uncomment config for 4x Anti-Aliasing.
+# config = pyglet.gl.Config(sample_buffers=1, samples=4)
+# window = pyglet.window.Window(OPENGL_SIZE_X, OPENGL_SIZE_Y, resizable=True, visible=True, caption="Connection Machine Emulator", config=config)
+
+window = pyglet.window.Window(OPENGL_SIZE_X, OPENGL_SIZE_Y, resizable=True, visible=True, caption="Connection Machine Emulator")
 
 
 # Set window position.
