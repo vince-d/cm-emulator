@@ -111,6 +111,12 @@ def on_key_press(symbol, modifiers):
     pass
 
 
+# Exit if the window is closed.
+@window.event
+def on_close():
+    os._exit(0)
+
+
 # Poll keys (W, A, S, D)
 # This gets called from the draw loop.
 def handleUserInput():
@@ -520,5 +526,8 @@ thread_bluetooth.start()
 # thread_tcp_net = Thread(target = tcpreader, args = (10, ))
 # thread_tcp_net.start()
 
-# Run application.
-pyglet.app.run()
+# Run application and exit if a keyboard interrupt is raised.
+try:
+    pyglet.app.run()
+except KeyboardInterrupt:
+    os._exit(0)
